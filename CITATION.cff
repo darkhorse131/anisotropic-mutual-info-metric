@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it as below."
+authors:
+  - family-names: "Leighton-Trudel"
+    given-names: "Beau"
+    orcid: "0009-0005-1106-4469"
+title: "Anisotropic Mutual Information and the Emergent Spatial Metric"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX # The DOI you reserved from Zenodo
+date-released: 2025-09-29
