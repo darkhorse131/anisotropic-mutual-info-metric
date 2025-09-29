@@ -1,0 +1,1 @@
+This repository contains the source code and data analysis for the paper "Anisotropic Mutual Information and the Emergent Spatial Metric," demonstrating the relationship between information theory and emergent spacetime geometry.
