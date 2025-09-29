@@ -9,3 +9,7 @@ If you use this code in your research, please cite the following paper:
 You can also cite the software directly using the DOI provided by Zenodo:
 
 > [DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
