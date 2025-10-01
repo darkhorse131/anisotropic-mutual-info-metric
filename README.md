@@ -4,7 +4,7 @@ This repository contains the source code and data analysis for the paper "Anisot
 
 If you use this code in your research, please cite the following paper:
 
-> Beau Leighton-Trudel, et al. (2025). Anisotropic Mutual Information and the Emergent Spatial Metric. *arXiv preprint arXiv:XXXX.XXXXX*.
+> Beau Leighton-Trudel, (2025). Anisotropic Mutual Information and the Emergent Spatial Metric. *arXiv preprint arXiv:XXXX.XXXXX*.
 
 ## License
 
